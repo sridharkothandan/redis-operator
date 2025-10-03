@@ -1,0 +1,16 @@
+---
+# Use `replaces-mode` or `semver-mode`. Once you switch to `semver-mode`, there is no easy way back.
+updateGraph: replaces-mode
+
+reviewers:
+  - instana/eng-agent
+  - instanacd
+  - htreu
+  - FelixMarxIBM
+  - Milica-Cvrkota-IBM
+  - vineethsoman03
+  - konrad-ohms
+  - Jefiya-MJ
+  - nagaraj-kandoor
+  - FredrikAtIBM
+  - rashmiswamyibm
